@@ -1,6 +1,6 @@
 
 # PrivateLink: Privacy-Preserving Integration and Sharing of Datasets
-:heavy_exclamation_mark:為避免格式跑掉請點擊右方連結開啟
+:heavy_exclamation_mark:為避免格式跑掉請點擊右方HackMD連結開啟
 ## 主要內容  
 提出一方法用以在一群組間共享數據時能做到隱私保護，且此方法能在效率、保密性、實用性三者中取得合理平衡。  
 此方案可在保護隱私的方式下，使用個人特定數據庫集成(數個由多個身份屬性組成的數據集成)。
